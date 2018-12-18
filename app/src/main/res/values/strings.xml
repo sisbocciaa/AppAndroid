@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">App</string>
+        <string name="email">email</string>
+        <string name="password">password</string>
+        <string name="login">login</string>
+        <string name="registrazione">registrazione</string>
+        <string name="number">number</string>
+        <string name="title_activity_login">LoginActivity</string>
+        <string name="welcome">Welcome</string>
+        <string name="tot">Totale :</string>
+        <string name="buy">Buy</string>
+        <string name="antipasto">Antipasto :</string>
+        <string name="primo">Primo :</string>
+        <string name="secondi">Secondo :</string>
+        <string name="dolci">Dolci :</string>
+
+    </resources>
